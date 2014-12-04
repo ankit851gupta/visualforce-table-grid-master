@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visualforce TableGrid #
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid">
@@ -155,3 +156,9 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+=======
+visualforce-table-grid-master
+=============================
+Trying to copy a project from desktop to GitHub.
+Telepathy
+>>>>>>> origin/master
